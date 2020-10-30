@@ -581,7 +581,7 @@ section {
   height: 92%;
   z-index: -1;
   content: '';
-  background-color: #ebf1fa;
+  background-color: black;
   transition: .5s;
 }
 
@@ -593,7 +593,7 @@ section {
   height: 92%;
   z-index: -1;
   content: '';
-  background-color: #ebf1fa;
+  background-color: black;
   transition: .5s;
 }
 
