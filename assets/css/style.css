@@ -832,7 +832,8 @@ section {
 #call-to-action {
   background: #2d2b46;
   background-size: cover;
-  padding: 40px 0;
+  padding: 10px 0;
+  text-align: center;
 }
 
 #call-to-action .cta-title {
@@ -1748,4 +1749,9 @@ section {
 
 #footer .credits a:hover {
   color: #0a98c0;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 1em;
 }
